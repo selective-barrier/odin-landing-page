@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto, Georgia, serif;
+  font-size: 16px;
+}
+
+.top,
+.footer {
+  background-color: #1F2937;
+}
+
+.hero > h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
+
+.hero > p,
+.header-links > ul > li,
+.call-text > *,
+.footer > p,
+button
+{
+  color: #E5E7EB;
+}
+
+.hero > p,
+.header-links > ul > li {
+  font-size: 18px;
+}
+
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.call,
+button {
+  background-color: #3882F6;
+}
+
+.info > h2 {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
+.quote-session {
+  background-color: #E5E7EB;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: light italic;
+  color: #1F2937;
+}
+
+.footer{
+  display: flex;
+  
+}
